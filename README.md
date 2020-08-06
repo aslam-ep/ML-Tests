@@ -6,4 +6,4 @@
 For spam or harm Download the email.csv data set from Kaggle and extract it on the program directory
 https://www.kaggle.com/balakishan77/spam-or-ham-email-classification
 
-3 - Basic computer vision program in machine learing to classify closths in mniset dataset
+3 - Basic computer vision program in machine learing to classify closths in mnist dataset
